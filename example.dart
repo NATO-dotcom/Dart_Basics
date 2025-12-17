@@ -2,7 +2,7 @@
 //futures-results that take some time to complete in asynchronous programming
 //async
 //await
-//stream
+//stream-A sequence of asynchronous events over time
 
 //EXAMPLE 1:
 
