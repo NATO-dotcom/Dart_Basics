@@ -26,7 +26,7 @@ print(scores);
 scores.remove('Charlie'); //removing key-value pair
 print(scores);
 scores.forEach((key, value) {
-  print('$key: $value');
+  print('$key: $value');//using lambda function to print key-value pairs
 });
 scores.containsKey('David'); //true
 scores.containsValue(100); //false
