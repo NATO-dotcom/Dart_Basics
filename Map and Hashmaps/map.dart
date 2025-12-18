@@ -1,4 +1,4 @@
-//Maps aare key-value pairs in Dart
+//Maps are key-value pairs in Dart
 //key has to be unique
 //value can be duplicates
 void main(){
